@@ -1,7 +1,8 @@
 import {createStore}  from 'redux';
-import iceCreamReducer from './iceCreams/iceCreamReducer';
+// import iceCreamReducer from './iceCreams/iceCreamReducer';
+import rootReducer from './rootReducer'
 
-let store = createStore (iceCreamReducer)
+let store = createStore (rootReducer)
 
 
 

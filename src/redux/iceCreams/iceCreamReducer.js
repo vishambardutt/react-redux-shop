@@ -1,7 +1,7 @@
 import { BUY_ICECREAM } from "./iceCreamType"
 
 let initialState = {
-    numOficeCream: 10
+    numOficeCream: 20
 }
 
 let iceCreamReducer = (state = initialState, action) => {

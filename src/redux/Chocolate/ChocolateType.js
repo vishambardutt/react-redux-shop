@@ -1,0 +1,1 @@
+export let BUY_CHOCOLATE = 'BUY_CHOCOLATE'
